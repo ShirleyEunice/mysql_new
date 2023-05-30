@@ -1,0 +1,11 @@
+-- Querying the data
+-- Sorting the data
+-- Filter data
+-- Joins
+-- Groups data
+-- subqueries
+-- CME common table expression
+-- Set operators
+-- Modify data
+-- MySQL Transaction
+-- Manage database
